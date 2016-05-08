@@ -1,0 +1,22 @@
+{
+  "name": "npmtest0810",
+  "version": "1.0.0",
+  "description": "����һ��������Ŀ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoying0810/npmtest.git"
+  },
+  "keywords": [
+    "zy_test"
+  ],
+  "author": "zhaoying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaoying0810/npmtest/issues"
+  },
+  "homepage": "https://github.com/zhaoying0810/npmtest#readme"
+}
